@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TanEatSnake</string>
+    <string name="score">Score:</string>
+    <string name="start">start</string>
+    <string name="eatSnake">TanEatSnake</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="youwin">YouWin</string>
+</resources>
